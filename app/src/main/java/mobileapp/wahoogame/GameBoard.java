@@ -2,9 +2,13 @@ package mobileapp.wahoogame;
 
 import java.util.Random;
 
+/*Initial commit to new Wahoo repo*/
+
+
 //Holds all GameBoard data
     //the middle man for all classes
 public class GameBoard {
+    String test = "initial git test";
 
     private Random diceRoll = new Random();
     public Hole holes[];                        //Stores all hole objects
